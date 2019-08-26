@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Main">
+
+    <Button
+        android:id="@+id/Dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dialog " />
+
+    <Button
+        android:id="@+id/Glide"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Glide" />
+
+    <Button
+        android:id="@+id/Act-Fra"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Activity to Fragment" />
+
+    <Button
+        android:id="@+id/Firebase"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Firebase" />
+
+    <Button
+        android:id="@+id/RxBinding"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="RxBinding" />
+
+    <Button
+        android:id="@+id/Web"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Web" />
+
+    <Button
+        android:id="@+id/Retrofit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Retrofit" />
+
+    <Button
+        android:id="@+id/Sqlite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sqlite" />
+
+    <Button
+        android:id="@+id/Bars"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bars " />
+</LinearLayout>
